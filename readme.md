@@ -1,0 +1,1 @@
+https://myherokusample.herokuapp.com/predict
